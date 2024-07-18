@@ -1,2 +1,1 @@
-# Coffee-Shop-Sales-Report
-To better understand purchase behavior and streamline operations, you've collected transactional data from Jan-Jun 2023. Your goal is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business.
+This project involves analyzing transactional data from Maven Roasters, a coffee shop chain with three locations in New York City. The data covers the period from January to June 2023. The goal is to profile and prepare the raw data, explore it using Excel Pivot Tables, and build a dynamic dashboard to visualize patterns, trends, and opportunities for the business.
